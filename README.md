@@ -10,7 +10,9 @@ User-Friendly GUI: Built with Tkinter, the application offers an intuitive graph
 Requirements
 Windows OS
 
-How to Use
+
+
+How to Use:
 
 Start the Application: Use the .exe provided, or the source .py
 
