@@ -11,9 +11,13 @@ Requirements
 Windows OS
 
 How to Use
+
 Start the Application: Use the .exe provided, or the source .py
+
 Load Permission Logs: Use the "File" menu to load permission logs for User 1 and User 2.
+
 Toggle Compare Mode: Use the "Toggle Compare" option in the "File" menu to switch between compare mode and normal view.
+
 View Debug Log: Access the "Show Debug Log" option under the "Help" menu to view application logs.
-Contributing
+
 Contributions are welcome! Please feel free to submit pull requests or open issues for any improvements or bug fixes.
