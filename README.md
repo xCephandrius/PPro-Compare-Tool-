@@ -1,6 +1,6 @@
 Nate's ProcessPro Compare Tool
 
-This Python application provides a graphical interface to compare user permissions across different companies, highlighting differences and similarities. Built using Tkinter, it allows for loading permission logs, parsing user and permission data, and displaying a side-by-side comparison to easily identify discrepancies.
+This Python application provides a graphical interface to compare user permissions across different companies, highlighting differences. Built using Tkinter, it allows for loading permission logs, parsing user and permission data, and displaying a side-by-side comparison to easily identify discrepancies.
 
 Features
 Load Permission Logs: Users can load permission logs for two different users to compare their access rights.
@@ -21,5 +21,3 @@ Load Permission Logs: Use the "File" menu to load permission logs for User 1 and
 Toggle Compare Mode: Use the "Toggle Compare" option in the "File" menu to switch between compare mode and normal view.
 
 View Debug Log: Access the "Show Debug Log" option under the "Help" menu to view application logs.
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for any improvements or bug fixes.
